@@ -1,0 +1,8 @@
+/**********  using express PUG tempalte **********/
+
+1. description: creating html file using express tempalte and run it on the express server
+
+2. dependencies "express", "nodemon", "pug"
+
+3. CSS styling
+
